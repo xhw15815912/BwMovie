@@ -68,7 +68,7 @@
         android:layout_marginTop="240dp"
         android:id="@+id/eye"
         android:src="@mipmap/log_icon_eye"
-        android:layout_marginLeft="400dp"
+        android:layout_marginLeft="350dp"
         />
     <Button
         android:layout_width="match_parent"
@@ -85,7 +85,7 @@
     <CheckBox
         android:layout_width="100dp"
         android:layout_height="30dp"
-        android:id="@+id/ck"
+        android:id="@+id/remberpwd"
         android:theme="@style/MyCheckBox"
         android:textColor="#fff"
         android:text="记住密码"
@@ -116,7 +116,7 @@
         android:layout_height="wrap_content"
         android:text="快速注册"
         android:id="@+id/regist"
-        android:layout_marginLeft="400dp"
+        android:layout_marginLeft="350dp"
         android:layout_marginTop="310dp"
         android:textSize="14sp"
         android:textColor="#fff"

@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(this, "长", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this, "1234", Toast.LENGTH_SHORT).show();
     }
 
 
