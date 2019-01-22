@@ -16,6 +16,6 @@ public class BaseActivity {
     public Dialog mLoadDiaLog;
 
     private static WDActivity mFregroundActivity = null;
-
+    private String success ;
 
 }
